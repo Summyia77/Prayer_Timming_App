@@ -31,9 +31,9 @@
 
 Let's connect!
 
-* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/summyia-fatima-274787311/) 🔗
+* **LinkedIn:** (https://www.linkedin.com/in/summyia-fatima-274787311/) 🔗
 * **WhatsApp:** [Chat on WhatsApp]([https://wa.me/your_phone_number](https://api.whatsapp.com/message/4EISLMWQEEP5H1?autoload=1&app_absent=0) 💬 
-* **Gmail:** [Send me an email](summyiawork@gmail.com) 📧
+* **Gmail:** (summyiawork@gmail.com) 📧
 
 
 
