@@ -7,7 +7,7 @@
 * **Accurate Prayer Times:** Get precise prayer times based on your location or a location you choose. ⏱️
 * **Automatic Location Detection:**  Uses your device's GPS to automatically determine your current location and display the corresponding prayer times. 📍
 * **Manual Location Search:** Search for any city or region in the world to view its prayer times. 🌍
-* **Shia and Sunni Support:**  Choose between Shia and Sunni prayer time calculations to match your preference. 🕌
+* **Hanfi and Shafi Support:**  Choose between hanfi and shafi prayer time calculations to match your preference. 🕌
 * **Current Location Display:** Clearly shows your current location on the screen. 🗺️
 * **User-Friendly Interface:** Simple and intuitive design for easy navigation and quick access to prayer times. 👍
 
