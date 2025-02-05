@@ -19,7 +19,7 @@
 
 ## User InterFace 📸
 
-(Add screenshots of your app here)
+
 
 ## Technologies Used 🛠️
 
